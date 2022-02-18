@@ -1,0 +1,1 @@
+{"name":"Local: sortStringChallange","url":"c:\\Users\\Dell\\Desktop\\CPP_STL\\sortStringChallange.cpp","tests":[{"id":1642398961625,"input":"3\n92 022\n82 12\n77 13\n2 false numeric","output":"82 12\n77 13\n92 022"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\CPP_STL\\sortStringChallange.cpp","group":"local","local":true}

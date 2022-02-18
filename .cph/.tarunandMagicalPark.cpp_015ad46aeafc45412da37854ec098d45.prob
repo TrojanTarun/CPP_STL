@@ -1,0 +1,1 @@
+{"name":"Local: tarunandMagicalPark","url":"c:\\Users\\Dell\\Desktop\\CPP_STL\\tarunandMagicalPark.cpp","tests":[{"id":1642575462524,"input":"4 4 5 20\n. . * .\n. # . .\n* * . .\n. # * *","output":"YES\n13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\CPP_STL\\tarunandMagicalPark.cpp","group":"local","local":true}
